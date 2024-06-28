@@ -1,0 +1,30 @@
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Loja de Carros.exe
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Loja de Carros.deps.json
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Loja de Carros.runtimeconfig.json
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Loja de Carros.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Loja de Carros.pdb
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.csproj.AssemblyReference.cache
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.AssemblyInfoInputs.cache
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.AssemblyInfo.cs
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.csproj.CoreCompileInputs.cache
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de .E3A688AE.Up2Date
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\refint\Loja de Carros.dll
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.pdb
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\Loja de Carros.genruntimeconfig.cache
+C:\Users\Lunacy\Documents\Projetos\Loja de Carros\Loja de Carros\obj\Debug\net8.0\ref\Loja de Carros.dll

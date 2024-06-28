@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lunacy\\Documents\\Projetos\\Loja de Carros\\Loja de Carros\\Loja de Carros.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lunacy\\Documents\\Projetos\\Loja de Carros\\Loja de Carros\\Loja de Carros.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lunacy\\Documents\\Projetos\\Loja de Carros\\Loja de Carros\\Loja de Carros.csproj",
+        "projectName": "Loja de Carros",
+        "projectPath": "C:\\Users\\Lunacy\\Documents\\Projetos\\Loja de Carros\\Loja de Carros\\Loja de Carros.csproj",
+        "packagesPath": "C:\\Users\\Lunacy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lunacy\\Documents\\Projetos\\Loja de Carros\\Loja de Carros\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lunacy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
